@@ -1,0 +1,32 @@
+_repo: Eighty-Years-and-More--Reminiscences-1815-1897_11982
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stanton, Elizabeth Cady
+    aliases:
+    - Cady, Elizabeth
+    - Stanton, E. Cady (Elizabeth Cady)
+    - Stanton, Lizzie
+    birthdate: 1815
+    deathdate: 1902
+    gutenberg_agent_id: '3186'
+    url: http://www.gutenberg.org/2009/agents/3186
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suffragists -- United States -- Biography'
+- !lcc 'JK'
+- !lcsh 'Feminism -- United States -- History -- 19th century'
+- !lcsh 'Stanton, Elizabeth Cady, 1815-1902'
+- !lcsh 'Women -- Suffrage -- United States -- History -- 19th century'
+- GITenberg
+title: Eighty Years and More; Reminiscences 1815-1897
+url: http://www.gutenberg.org/ebooks/11982
